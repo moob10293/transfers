@@ -1,2 +1,2 @@
 # transfers
-quit snooping. also, thanks https://www.instructables.com/Downloading-Code-From-GitHub/
+for transfering code to servers via git clone
